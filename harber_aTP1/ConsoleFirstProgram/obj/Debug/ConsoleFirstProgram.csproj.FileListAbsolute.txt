@@ -1,0 +1,12 @@
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleApp1\obj\Debug\ConsoleFirstProgram.csprojResolveAssemblyReference.cache
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleApp1\obj\Debug\ConsoleFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleFirstProgram\bin\Debug\ConsoleFirstProgram.exe.config
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleFirstProgram\bin\Debug\ConsoleFirstProgram.exe
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleFirstProgram\bin\Debug\ConsoleFirstProgram.pdb
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleFirstProgram\obj\Debug\ConsoleFirstProgram.exe
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleFirstProgram\obj\Debug\ConsoleFirstProgram.pdb

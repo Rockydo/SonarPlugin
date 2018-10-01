@@ -1,0 +1,6 @@
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleSecondProgram\bin\Debug\ConsoleSecondProgram.exe.config
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleSecondProgram\bin\Debug\ConsoleSecondProgram.exe
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleSecondProgram\bin\Debug\ConsoleSecondProgram.pdb
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleSecondProgram\obj\Debug\ConsoleSecondProgram.csprojResolveAssemblyReference.cache
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleSecondProgram\obj\Debug\ConsoleSecondProgram.exe
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleSecondProgram\obj\Debug\ConsoleSecondProgram.pdb

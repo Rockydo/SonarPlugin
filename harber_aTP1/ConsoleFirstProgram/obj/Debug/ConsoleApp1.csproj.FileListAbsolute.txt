@@ -1,0 +1,7 @@
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\alvin\source\repos\harber_aTP1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
